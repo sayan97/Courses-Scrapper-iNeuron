@@ -1,0 +1,138 @@
+2022-04-10 23:56:37,730  INFO   * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-10 23:56:58,910  INFO  127.0.0.1 - - [10/Apr/2022 23:56:58] "GET / HTTP/1.1" 200 -
+2022-04-10 23:56:59,011  INFO  127.0.0.1 - - [10/Apr/2022 23:56:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-10 23:56:59,013  INFO  127.0.0.1 - - [10/Apr/2022 23:56:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-10 23:57:01,095  INFO  Courses scrapped : 
+2022-04-10 23:57:01,097  INFO  Courses Displayed 
+2022-04-10 23:57:01,103  INFO  127.0.0.1 - - [10/Apr/2022 23:57:01] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-10 23:57:01,117  INFO  127.0.0.1 - - [10/Apr/2022 23:57:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-10 23:57:01,119  INFO  127.0.0.1 - - [10/Apr/2022 23:57:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-10 23:57:01,124  INFO  127.0.0.1 - - [10/Apr/2022 23:57:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-10 23:57:02,188  INFO  127.0.0.1 - - [10/Apr/2022 23:57:02] "POST /dboperation HTTP/1.1" 200 -
+2022-04-10 23:57:02,199  INFO  127.0.0.1 - - [10/Apr/2022 23:57:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-10 23:57:07,573  INFO  Courses scrapped : 
+2022-04-10 23:57:07,683  INFO  Pymongo client created 
+2022-04-10 23:57:08,000  INFO  Data added into pymongo collection : 
+2022-04-10 23:57:08,003  INFO  127.0.0.1 - - [10/Apr/2022 23:57:08] "POST /dbinsert HTTP/1.1" 200 -
+2022-04-10 23:57:08,015  INFO  127.0.0.1 - - [10/Apr/2022 23:57:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-10 23:57:08,017  INFO  127.0.0.1 - - [10/Apr/2022 23:57:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:24:02,174  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-11 01:24:02,232  INFO   * Restarting with stat
+2022-04-11 01:24:03,629  WARNING   * Debugger is active!
+2022-04-11 01:24:03,643  INFO   * Debugger PIN: 108-050-677
+2022-04-11 01:24:16,136  INFO  127.0.0.1 - - [11/Apr/2022 01:24:16] "GET / HTTP/1.1" 200 -
+2022-04-11 01:24:16,248  INFO  127.0.0.1 - - [11/Apr/2022 01:24:16] "GET /static/css/main.css HTTP/1.1" 200 -
+2022-04-11 01:24:16,263  INFO  127.0.0.1 - - [11/Apr/2022 01:24:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2022-04-11 01:24:16,384  INFO  127.0.0.1 - - [11/Apr/2022 01:24:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-11 01:24:18,245  INFO  Courses scrapped : 
+2022-04-11 01:24:18,246  INFO  Courses Displayed 
+2022-04-11 01:24:18,253  INFO  127.0.0.1 - - [11/Apr/2022 01:24:18] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-11 01:24:18,280  INFO  127.0.0.1 - - [11/Apr/2022 01:24:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 01:24:18,282  INFO  127.0.0.1 - - [11/Apr/2022 01:24:18] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-11 01:24:18,285  INFO  127.0.0.1 - - [11/Apr/2022 01:24:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:24:19,411  INFO  127.0.0.1 - - [11/Apr/2022 01:24:19] "POST /dboperation HTTP/1.1" 200 -
+2022-04-11 01:24:19,435  INFO  127.0.0.1 - - [11/Apr/2022 01:24:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:27:20,310  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-11 01:27:20,325  INFO   * Restarting with stat
+2022-04-11 01:27:21,616  WARNING   * Debugger is active!
+2022-04-11 01:27:21,626  INFO   * Debugger PIN: 108-050-677
+2022-04-11 01:27:34,947  INFO  127.0.0.1 - - [11/Apr/2022 01:27:34] "GET / HTTP/1.1" 200 -
+2022-04-11 01:27:34,972  INFO  127.0.0.1 - - [11/Apr/2022 01:27:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 01:27:34,974  INFO  127.0.0.1 - - [11/Apr/2022 01:27:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:27:37,351  INFO  Courses scrapped : 
+2022-04-11 01:27:37,352  INFO  Courses Displayed 
+2022-04-11 01:27:37,360  INFO  127.0.0.1 - - [11/Apr/2022 01:27:37] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-11 01:27:37,421  INFO  127.0.0.1 - - [11/Apr/2022 01:27:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 01:27:37,427  INFO  127.0.0.1 - - [11/Apr/2022 01:27:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-11 01:27:37,428  INFO  127.0.0.1 - - [11/Apr/2022 01:27:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:30:38,809  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-11 01:30:38,817  INFO   * Restarting with stat
+2022-04-11 01:30:39,995  WARNING   * Debugger is active!
+2022-04-11 01:30:40,004  INFO   * Debugger PIN: 108-050-677
+2022-04-11 01:31:10,610  INFO  127.0.0.1 - - [11/Apr/2022 01:31:10] "GET / HTTP/1.1" 200 -
+2022-04-11 01:31:10,644  INFO  127.0.0.1 - - [11/Apr/2022 01:31:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 01:31:10,694  INFO  127.0.0.1 - - [11/Apr/2022 01:31:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:31:13,171  INFO  Courses scrapped : 
+2022-04-11 01:31:13,172  INFO  Courses Displayed 
+2022-04-11 01:31:13,189  INFO  127.0.0.1 - - [11/Apr/2022 01:31:13] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-11 01:31:13,222  INFO  127.0.0.1 - - [11/Apr/2022 01:31:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 01:31:13,225  INFO  127.0.0.1 - - [11/Apr/2022 01:31:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-11 01:31:13,246  INFO  127.0.0.1 - - [11/Apr/2022 01:31:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 01:31:14,854  INFO  127.0.0.1 - - [11/Apr/2022 01:31:14] "POST /dboperation HTTP/1.1" 200 -
+2022-04-11 01:31:14,878  INFO  127.0.0.1 - - [11/Apr/2022 01:31:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:28:58,138  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-11 12:28:58,142  INFO   * Restarting with stat
+2022-04-11 12:28:59,342  WARNING   * Debugger is active!
+2022-04-11 12:28:59,351  INFO   * Debugger PIN: 108-050-677
+2022-04-11 12:29:10,892  INFO  127.0.0.1 - - [11/Apr/2022 12:29:10] "GET / HTTP/1.1" 200 -
+2022-04-11 12:29:10,981  INFO  127.0.0.1 - - [11/Apr/2022 12:29:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 12:29:10,982  INFO  127.0.0.1 - - [11/Apr/2022 12:29:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:29:11,117  INFO  127.0.0.1 - - [11/Apr/2022 12:29:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-11 12:29:12,692  INFO  Courses scrapped : 
+2022-04-11 12:29:12,693  INFO  Courses Displayed 
+2022-04-11 12:29:12,707  INFO  127.0.0.1 - - [11/Apr/2022 12:29:12] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-11 12:29:12,737  INFO  127.0.0.1 - - [11/Apr/2022 12:29:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 12:29:12,739  INFO  127.0.0.1 - - [11/Apr/2022 12:29:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:29:12,750  INFO  127.0.0.1 - - [11/Apr/2022 12:29:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-11 12:29:15,011  INFO  127.0.0.1 - - [11/Apr/2022 12:29:15] "POST /dboperation HTTP/1.1" 200 -
+2022-04-11 12:29:15,036  INFO  127.0.0.1 - - [11/Apr/2022 12:29:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:59:10,981  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-11 12:59:10,990  INFO   * Restarting with stat
+2022-04-11 12:59:12,251  WARNING   * Debugger is active!
+2022-04-11 12:59:12,259  INFO   * Debugger PIN: 108-050-677
+2022-04-11 12:59:28,884  INFO  127.0.0.1 - - [11/Apr/2022 12:59:28] "GET / HTTP/1.1" 200 -
+2022-04-11 12:59:29,039  INFO  127.0.0.1 - - [11/Apr/2022 12:59:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:59:29,041  INFO  127.0.0.1 - - [11/Apr/2022 12:59:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 12:59:30,773  INFO  Courses scrapped : 
+2022-04-11 12:59:30,774  INFO  Courses Displayed 
+2022-04-11 12:59:30,782  INFO  127.0.0.1 - - [11/Apr/2022 12:59:30] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-11 12:59:30,811  INFO  127.0.0.1 - - [11/Apr/2022 12:59:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-11 12:59:30,813  INFO  127.0.0.1 - - [11/Apr/2022 12:59:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-11 12:59:30,826  INFO  127.0.0.1 - - [11/Apr/2022 12:59:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-11 12:59:31,991  INFO  127.0.0.1 - - [11/Apr/2022 12:59:31] "POST /dboperation HTTP/1.1" 200 -
+2022-04-11 12:59:32,014  INFO  127.0.0.1 - - [11/Apr/2022 12:59:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-12 21:33:05,560  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-12 21:33:05,564  INFO   * Restarting with stat
+2022-04-12 21:33:06,930  WARNING   * Debugger is active!
+2022-04-12 21:33:06,943  INFO   * Debugger PIN: 108-050-677
+2022-04-12 21:33:17,634  INFO  127.0.0.1 - - [12/Apr/2022 21:33:17] "GET / HTTP/1.1" 200 -
+2022-04-12 21:33:17,693  INFO  127.0.0.1 - - [12/Apr/2022 21:33:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-12 21:33:17,704  INFO  127.0.0.1 - - [12/Apr/2022 21:33:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-12 21:33:18,586  INFO  127.0.0.1 - - [12/Apr/2022 21:33:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-12 21:33:20,276  INFO  127.0.0.1 - - [12/Apr/2022 21:33:20] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-12 21:33:23,670  INFO  127.0.0.1 - - [12/Apr/2022 21:33:23] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-12 21:43:23,001  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-12 21:43:23,003  INFO   * Restarting with stat
+2022-04-12 21:43:24,335  WARNING   * Debugger is active!
+2022-04-12 21:43:24,343  INFO   * Debugger PIN: 108-050-677
+2022-04-12 21:43:38,623  INFO  127.0.0.1 - - [12/Apr/2022 21:43:38] "GET / HTTP/1.1" 200 -
+2022-04-12 21:43:38,653  INFO  127.0.0.1 - - [12/Apr/2022 21:43:38] "GET /static/css/main.css HTTP/1.1" 200 -
+2022-04-12 21:43:38,661  INFO  127.0.0.1 - - [12/Apr/2022 21:43:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2022-04-12 21:43:38,722  INFO  127.0.0.1 - - [12/Apr/2022 21:43:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-12 21:43:40,254  INFO  127.0.0.1 - - [12/Apr/2022 21:43:40] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-12 21:43:48,075  INFO  127.0.0.1 - - [12/Apr/2022 21:43:48] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-12 21:47:22,685  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-12 21:47:22,687  INFO   * Restarting with stat
+2022-04-12 21:47:23,998  WARNING   * Debugger is active!
+2022-04-12 21:47:24,006  INFO   * Debugger PIN: 108-050-677
+2022-04-12 21:47:29,486  INFO  127.0.0.1 - - [12/Apr/2022 21:47:29] "GET /displaycourses HTTP/1.1" 200 -
+2022-04-12 21:47:34,042  INFO  127.0.0.1 - - [12/Apr/2022 21:47:34] "GET / HTTP/1.1" 200 -
+2022-04-12 21:47:34,056  INFO  127.0.0.1 - - [12/Apr/2022 21:47:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-12 21:47:34,056  INFO  127.0.0.1 - - [12/Apr/2022 21:47:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-12 21:47:36,069  INFO  127.0.0.1 - - [12/Apr/2022 21:47:36] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-13 15:42:58,915  INFO   * Running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2022-04-13 15:42:58,930  INFO   * Restarting with stat
+2022-04-13 15:43:00,471  WARNING   * Debugger is active!
+2022-04-13 15:43:00,483  INFO   * Debugger PIN: 108-050-677
+2022-04-13 15:43:29,756  INFO  127.0.0.1 - - [13/Apr/2022 15:43:29] "GET / HTTP/1.1" 200 -
+2022-04-13 15:43:29,785  INFO  127.0.0.1 - - [13/Apr/2022 15:43:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-13 15:43:29,785  INFO  127.0.0.1 - - [13/Apr/2022 15:43:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-13 15:43:29,882  INFO  127.0.0.1 - - [13/Apr/2022 15:43:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-13 15:43:31,490  INFO  Courses scrapped : 
+2022-04-13 15:43:31,492  INFO  Courses Displayed 
+2022-04-13 15:43:31,527  INFO  127.0.0.1 - - [13/Apr/2022 15:43:31] "POST /displaycourses HTTP/1.1" 200 -
+2022-04-13 15:43:31,542  INFO  127.0.0.1 - - [13/Apr/2022 15:43:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-04-13 15:43:31,542  INFO  127.0.0.1 - - [13/Apr/2022 15:43:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-04-13 15:43:31,548  INFO  127.0.0.1 - - [13/Apr/2022 15:43:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-13 15:43:33,288  INFO  127.0.0.1 - - [13/Apr/2022 15:43:33] "POST /dboperation HTTP/1.1" 200 -
+2022-04-13 15:43:33,300  INFO  127.0.0.1 - - [13/Apr/2022 15:43:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Database Insertion</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <h1 >Insert MongoDB Credentials</h1>
+
+    <div class="form">
+        <form action="/dbinsert" method="POST">
+           <label for="password">Password:</label><br>
+           <input type="text" id="password" name="password"><br>
+            <label for="db_name">Database Name:</label><br>
+           <input type="text" id="db_name" name="db_name"><br>
+            <label for="collection">Collection Name:</label><br>
+            <input type="text" id="collection" name="collection">
+            <input type="submit" value="Insert">
+        </form>
+    </div>
+
+</body>
+</html>

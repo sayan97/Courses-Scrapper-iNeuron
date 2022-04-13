@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+  <title>iNeuron Courses</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+
+      <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+{% endblock %}
+
+{% block body %}
+
+  <div class="table-users">
+   <div class="header">Courses</div>
+      <table class="centered thick-border">
+	<tr>
+		<th>Topics</th>
+		<th>Sub-Topics</th>
+	</tr>
+	{% for k, v in courses.items() %}
+		<tr>
+			<td>{{ k }}</td>
+			<td>{{ v }}</td>
+		</tr>
+	{% endfor %}
+</table>
+
+	  <div class="form">
+        <form action="/dboperation" method="POST">
+            <input type="submit" value="Insert into DB">
+        </form>
+
+</div>
+
+      {% endblock %}
